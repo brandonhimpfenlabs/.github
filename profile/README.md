@@ -6,7 +6,7 @@ The purpose of Labs is to explore computational approaches to real-world problem
 
 Many Labs projects are written in **Julia**, a programming language designed for high-performance numerical and scientific computing. Julia enables the development of systems that remain readable while also supporting efficient data processing and simulation workloads.
 
-Learn more at https://www.himpfen.com/labs/
+Learn more at https://www.brandonhimpfen.com/labs/
 
 ## Areas of Exploration
 
